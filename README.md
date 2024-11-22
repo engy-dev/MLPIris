@@ -1,4 +1,4 @@
-# README for Iris Classification with MLPClassifier
+# Iris Classification with MLPClassifier
 
 ## Overview
 
